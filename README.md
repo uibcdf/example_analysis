@@ -46,5 +46,10 @@ Esto permite que puedas ser un colaborador/a con permisos de lectura (git pull) 
 
 ### 4 Trabaja en tu Jupyter Notebook
 
+## Acceso a Jupyter Hub centralizado en Ixtlilton
+
+En el navegador y únicamente desde una conexión de la red local de la UIBCDF, visitar la dirección http://192.168.0.100:443/hub/login .
+En adelante se configurará el acceso desde fuera y se implementará doble factor de acceso.
+
 
 
