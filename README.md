@@ -3,7 +3,7 @@
 Lista de tareas para realizar sobre un segmento de trayectoria de DHFR
 Dihydrofolate solvatado -viene del benchmark de Amber-. Este segmento de
 trayectoria junto con los ficheros de topología y coordenadas iniciales se
-encuentran en "/DATA/Projects/Learning_Python/MD_Analysis_examples/dhfr-solv".
+encuentran en "/DATA/projects/Learning_Python/MD_Analysis_examples/dhfr-solv".
 
 #### Lista de objetivos a cumplir
 
