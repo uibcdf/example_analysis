@@ -52,4 +52,6 @@ En el navegador y únicamente desde una conexión de la red local de la UIBCDF, 
 En adelante se configurará el acceso desde fuera y se implementará doble factor de acceso.
 
 
+# Other similar tutorials or useful documentation
 
+http://ambermd.org/tutorials/analysis/tutorial_notebooks/nglview_notebook/index.html
